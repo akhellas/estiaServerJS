@@ -1,0 +1,13 @@
+{
+  "name": "estiaServerJS",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/akhellas/estiaServerJS.git",
+  "author": "Antonis Katarachias <akhellas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.1.0",
+    "map-limit": "^0.0.1",
+    "mongodb": "^2.2.33"
+  }
+}
